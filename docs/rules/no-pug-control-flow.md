@@ -9,7 +9,7 @@ description: disallow pug control flow features.
 > disallow pug control flow features.
 
 - :exclamation: <badge text="This rule has not been released yet." vertical="middle" type="error"> ***This rule has not been released yet.*** </badge>
-- :gear: This rule is included in all of `"plugin:vue/vue3-strongly-recommended"`, `"plugin:vue/strongly-recommended"`, `"plugin:vue/vue3-recommended"` and `"plugin:vue/recommended"`.
+- :gear: This rule is included in all of `"plugin:vue/vue3-strongly-recommended"`, `"plugin:vue/vue2-strongly-recommended"` and `"plugin:vue/vue3-recommended"`.
 
 ## :book: Rule Details
 

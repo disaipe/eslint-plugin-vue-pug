@@ -32,22 +32,22 @@ const categoryTitles = {
     vuepress:
       'Priority D: Use with Caution (Potentially Dangerous Patterns) <badge text="for Vue.js 3.x" vertical="middle">for Vue.js 3.x</badge>'
   },
-  essential: {
+  'vue2-essential': {
     text: 'Priority A: Essential (Error Prevention) for Vue.js 2.x',
     vuepress:
       'Priority A: Essential (Error Prevention) <badge text="for Vue.js 2.x" vertical="middle" type="warn">for Vue.js 2.x</badge>'
   },
-  'strongly-recommended': {
+  'vue2-strongly-recommended': {
     text: 'Priority B: Strongly Recommended (Improving Readability) for Vue.js 2.x',
     vuepress:
       'Priority B: Strongly Recommended (Improving Readability) <badge text="for Vue.js 2.x" vertical="middle" type="warn">for Vue.js 2.x</badge>'
   },
-  recommended: {
+  'vue2-recommended': {
     text: 'Priority C: Recommended (Minimizing Arbitrary Choices and Cognitive Overhead) for Vue.js 2.x',
     vuepress:
       'Priority C: Recommended (Minimizing Arbitrary Choices and Cognitive Overhead) <badge text="for Vue.js 2.x" vertical="middle" type="warn">for Vue.js 2.x</badge>'
   },
-  'use-with-caution': {
+  'vue2-use-with-caution': {
     text: 'Priority D: Use with Caution (Potentially Dangerous Patterns) for Vue.js 2.x',
     vuepress:
       'Priority D: Use with Caution (Potentially Dangerous Patterns) <badge text="for Vue.js 2.x" vertical="middle" type="warn">for Vue.js 2.x</badge>'
